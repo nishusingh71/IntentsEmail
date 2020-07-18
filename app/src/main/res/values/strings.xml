@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentsEmail</string>
+    <string name="enter_subject_of_email">Enter subject of Email</string>
+    <string name="enter_body_of_email">Enter body of Email</string>
+    <string name="send_email">Send Email</string>
+    <string name="enter_reciever_email">Enter Reciever Email</string>
+    <string name="alarm">alarm</string>
+    <string name="GoogleSearch">GoogleSearch</string>
+</resources>
